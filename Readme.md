@@ -1,0 +1,2 @@
+-For GraphQL install- pip install --pre gql[all]
+-ERC20 based DEX protocols- https://thegraph.com/explorer/subgraph/uniswap/uniswap-v2
